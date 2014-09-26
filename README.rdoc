@@ -1,6 +1,7 @@
 This is an experiment for creating interactive Google Street View hyper-lapse animations. 
 
-Built with 
+Dependencies
+
 * Hyperlapse.js
 * Three.js</a> (r57)
 * a modified version of GSVPano.js
@@ -9,17 +10,4 @@ Built with
 Requirements: 
 
 * Ruby version: 1.9+
-
 * System dependencies: Latest or WebGL-enabled browsers. Best bet is Google Chrome. 
-
-* Configuration: N/A
-
-* Database creation: N/A
-
-* Database initialization: N/A
-
-* How to run the test suite: N/A
-
-* Services: N/A
-
-* Deployment instructions: N/A
