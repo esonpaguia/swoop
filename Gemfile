@@ -5,7 +5,7 @@ gem 'rails', '4.0.0'
 
 group :production do
   #gem 'ruby', '2.0.0'
-  #gem 'rails_12factor'
+  gem 'rails_12factor'
 end
 
 # Use SCSS for stylesheets
@@ -45,3 +45,5 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+#
+gem 'therubyracer'
