@@ -1,0 +1,5 @@
+/Users/eddisonpaguia/Dropbox/workspace/swoop/vendor/bundle/gems/libv8-3.16.14.7/patches/clang/no-unused-private-field.patch
+/Users/eddisonpaguia/Dropbox/workspace/swoop/vendor/bundle/gems/libv8-3.16.14.7/patches/clang33/silence-nested-anon-types-and-unused-function-warnings.patch
+/Users/eddisonpaguia/Dropbox/workspace/swoop/vendor/bundle/gems/libv8-3.16.14.7/patches/clang51/no-unused-variable.patch
+/Users/eddisonpaguia/Dropbox/workspace/swoop/vendor/bundle/gems/libv8-3.16.14.7/patches/disable-building-tests.patch
+/Users/eddisonpaguia/Dropbox/workspace/swoop/vendor/bundle/gems/libv8-3.16.14.7/patches/fPIC-for-static.patch
