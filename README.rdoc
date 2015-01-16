@@ -1,6 +1,6 @@
 This is an experiment for creating interactive Google Street View hyper-lapse animations. 
 
-Dependencies
+Dependencies 
 
 * Hyperlapse.js
 * Three.js (r57)
